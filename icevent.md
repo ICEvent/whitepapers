@@ -7,6 +7,39 @@ Task management (TODO)
 Contact management
 Note taking
 Specialized solutions for Tickets, Appointments, Scheduling and Itineraries
+
+8. Problems & Solutions
+8.1 Event Management Challenges
+Decentralized Event Coordination
+Problem: Centralized platforms control user data and charge high fees
+Solution: ICEvent provides decentralized calendar and event management on IC blockchain
+Digital Ticket Authenticity
+Problem: Ticket fraud and unauthorized reselling
+Solution: NFT-based tickets with verifiable ownership through AttendNFT system
+Cross-platform Calendar Sync
+Problem: Calendar fragmentation across different platforms
+Solution: Unified calendar system with iCal compatibility
+8.2 Resource Management Issues
+Payment & Settlement
+Problem: Slow payment processing and high transaction fees
+Solution: ICET token integration for instant settlements and low-cost transactions
+Document & File Storage
+Problem: Centralized storage with privacy concerns
+Solution: Decentralized storage canister with encrypted file management
+Access Control
+Problem: Complex permission management for events
+Solution: Principal-based authentication with granular access controls
+8.3 Collaboration Challenges
+Team Coordination
+Problem: Disconnected tools for team management
+Solution: Integrated todo/issue tracking with calendar synchronization
+Communication Silos
+Problem: Scattered communication channels
+Solution: Built-in messaging system with event context
+Resource Scheduling
+Problem: Inefficient booking and scheduling systems
+Solution: Automated scheduling solution with conflict resolution
+
 2. Technical Architecture
 2.1 Core Components
 Frontend: React.js with TypeScript
