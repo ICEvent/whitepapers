@@ -11,6 +11,10 @@ ICEvent is an event-driven platform designed to provide comprehensive solutions 
 - **Itineraries**: Day-by-day agenda organization.  
 
 ### To-Do Management
+- Organized by **status**:
+  - **Backlog**: Tasks yet to be started.  
+  - **In Progress**: Tasks currently being worked on.  
+  - **Done**: Completed tasks.  
 - Categorized into:
   - Issues
   - Ideas
@@ -26,6 +30,7 @@ ICEvent is an event-driven platform designed to provide comprehensive solutions 
   - Tracking spending  
 
 ICEvent stands out by combining advanced functionality with collaborative tools to streamline event management and enhance productivity.
+
 
 8. Problems & Solutions
 8.1 Event Management Challenges
